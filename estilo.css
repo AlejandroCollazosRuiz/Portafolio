@@ -287,11 +287,11 @@ html{
     100%{width: 89%;}
 }
 
-.skills .skill .photoshop{
+.skills .skill .Framework{
     width: 0%;
-    animation: 2s photoshop forwards;
+    animation: 2s Framework forwards;
 }
-@keyframes photoshop {
+@keyframes Framework {
     0%{width: 0%;}
     100%{width: 95%;}
 }
@@ -314,11 +314,20 @@ html{
     100%{width: 55%;}
 }
 
-.skills .skill .comunicacion{
+.skills .skill .BasesDatos{
     width: 0%;
-    animation: 2s comunicacion forwards;
+    animation: 2s BasesDatos forwards;
 }
-@keyframes comunicacion {
+@keyframes BasesDatos {
+    0%{width: 0%;}
+    100%{width: 80%;}
+}
+
+.skills .skills .Comunicacion{
+    width: 0%;
+    animation: 2s Comunicacion forwards;
+}
+@keyframes Comunicacion{
     0%{width: 0%;}
     100%{width: 80%;}
 }
