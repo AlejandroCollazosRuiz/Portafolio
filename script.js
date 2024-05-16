@@ -24,9 +24,7 @@ function efectoHabilidades(){
         habilidades[0].classList.add("javascript");
         habilidades[1].classList.add("htmlcss");
         habilidades[2].classList.add("Framekor");
-        habilidades[2].classList.add("Framework");
         habilidades[3].classList.add("wordpress");
-        habilidades[4].classList.add("Bases de datos");
         habilidades[4].classList.add("BasesDatos");
         habilidades[5].classList.add("comunicacion");
         habilidades[6].classList.add("trabajo");
